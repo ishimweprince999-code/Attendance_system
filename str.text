@@ -1,0 +1,11 @@
+school-attendance/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── utils/
+│   ├── services/
+│   └── styles/
+├── package.json
+└── tailwind.config.js
