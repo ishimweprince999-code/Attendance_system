@@ -1,0 +1,30 @@
+school-attendance/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── common/
+│   │   │   ├── Header.jsx
+│   │   │   ├── Sidebar.jsx
+│   │   │   ├── Timer.jsx
+│   │   │   └── Modal.jsx
+│   │   ├── attendance/
+│   │   │   ├── AttendanceSession.jsx
+│   │   │   ├── ClassSelector.jsx
+│   │   │   ├── StudentAttendance.jsx
+│   │   │   └── AttendanceReport.jsx
+│   │   └── students/
+│   │       ├── StudentCard.jsx
+│   │       └── StudentList.jsx
+│   ├── pages/
+│   │   ├── Dashboard.jsx
+│   │   ├── AttendancePage.jsx
+│   │   ├── StudentsPage.jsx
+│   │   └── ReportsPage.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.js
+├── tailwind.config.js
+├── package.json
+└── README.md
